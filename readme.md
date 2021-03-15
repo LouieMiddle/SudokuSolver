@@ -1,4 +1,4 @@
-# Sudoku Readme CM20252
+# Sudoku Readme 
 
 ## Recursive Backtracking Algorithm
 
